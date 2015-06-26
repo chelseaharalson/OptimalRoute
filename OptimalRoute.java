@@ -17,7 +17,7 @@ import java.io.FileWriter;
 
 /**
  *
- * @author V635460
+ * @author Chelsea
  */
 public class OptimalRoute {
     static ArrayList<Location> visitedList = new ArrayList<Location>();

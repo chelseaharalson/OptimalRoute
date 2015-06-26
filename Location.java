@@ -13,7 +13,7 @@ import java.util.Collections;
 
 /**
  *
- * @author V635460
+ * @author Chelsea
  */
 public class Location {
     
