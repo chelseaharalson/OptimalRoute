@@ -1,0 +1,344 @@
+Longitude,Latitude,Type,Name,Street,City,State,Zip_Code,Score
+-95.376214,29.752518,Best Burgers,Christian's Tailgate Bar & Grill,2000 Bagby St,Houston,TX,77002,5
+-95.398561,29.803277,Best Burgers,Becks Prime,115 W 19th St,Houston,TX,77008,5
+-71.804872,42.26551,Verizon Locations,Verizon 15 Chestnut St,15 Chestnut St,Worcester,MA,1609,10
+-71.200085,42.486234,Verizon Locations,Verizon 51 S Bedford St,51 S Bedford St,Burlington,MA,1803,10
+-71.3244925,42.6147171,Verizon Locations,Verizon 900 Chelmsford St,900 Chelmsford St,Lowell,MA,1851,10
+-71.1581594,42.5874153,Verizon Locations,Verizon 200 Ballardvale ST,200 Ballardvale ST,Wilmington,MA,1887,10
+-71.0530768,42.3552909,Verizon Locations,Verizon 125 High St - High Tower,125 High St - High Tower,Boston,MA,2110,10
+-71.0733678,42.2994631,Verizon Locations,Verizon 6 Bowdoin Sq,6 Bowdoin Sq,Boston,MA,2121,10
+-71.2732565,42.394503,Verizon Locations,Verizon 50-60 Sylvan Rd,50-60 Sylvan Rd,Waltham,MA,2451,10
+-71.13505,41.954417,Verizon Locations,Verizon 385 Myles Standish Blvd,385 Myles Standish Blvd,Taunton,MA,2780,10
+-72.8009675,41.479327,Verizon Locations,Verizon 20 Alexander DR,20 Alexander DR,Wallingford,CT,6492,10
+-74.5718612,40.6530848,Verizon Locations,Verizon 30 Independence Blvd,30 Independence Blvd,Warren,NJ,7059,10
+-74.3193419,40.2390713,Verizon Locations,Verizon 999 W Main St,999 W Main St,Freehold,NJ,7728,10
+-74.5333389,40.7250243,Verizon Locations,Verizon One Verizon WAY,One Verizon WAY,Basking Ridge,NJ,7920,10
+-74.634952,40.6444059,Verizon Locations,Verizon 180 Washington Valley Rd,180 Washington Valley Rd,Bedminster,NJ,7921,10
+-74.4772849,40.7709098,Verizon Locations,Verizon 100 Southgate Pkwy,100 Southgate Pkwy,Morristown,NJ,7960,10
+-74.4953301,40.5449301,Verizon Locations,Verizon 201 Centennial AVE,201 Centennial AVE,Piscataway,NJ,8854,10
+-74.0129973,40.7138034,Verizon Locations,Verizon 140 West St,140 West St,New York,NY,10007,10
+-73.975441,40.747432,Verizon Locations,Verizon 221 E 37Th St,221 E 37Th St,New York,NY,10016,10
+-73.7810693,41.1006785,Verizon Locations,Verizon 500 Summit Lake Dr,500 Summit Lake Dr,Valhalla,NY,10595,10
+-73.770873,41.032452,Verizon Locations,Verizon 111 Main St,111 Main St,White Plains,NY,10601,10
+-73.9898524,41.0400227,Verizon Locations,Verizon 2000 Corporate Dr,2000 Corporate Dr,Orangeburg,NY,10962,10
+-74.0469952,41.1094588,Verizon Locations,Verizon 239 W Rte 59,239 W Rte 59,Spring Valley,NY,10977,10
+-73.6047292,40.7404371,Verizon Locations,Verizon 741 Zeckendorf Blvd,741 Zeckendorf Blvd,Garden City,NY,11530,10
+-73.6286338,40.7083715,Verizon Locations,Verizon 199 Fulton Ave,199 Fulton Ave,Hempstead,NY,11550,10
+-76.0866343,43.078345,Verizon Locations,Verizon 6360 Thompson Rd,6360 Thompson Rd,Syracuse,NY,13206,10
+-77.6420318,43.0665157,Verizon Locations,Verizon 133 Calkins Rd,133 Calkins Rd,Rochester,NY,14623,10
+-80.098236,40.6643169,Verizon Locations,Verizon 300 Allegheny DR,300 Allegheny DR,Warrendale,PA,15086,10
+-75.88121,41.2455252,Verizon Locations,Verizon 60 Public SQ,60 Public SQ,Wilkes Barre,PA,18701,10
+-74.9810591,40.1220653,Verizon Locations,Verizon 8 Neshaminy Interplex,8 Neshaminy Interplex,Trevose,PA,19053,10
+-75.169387,39.9554045,Verizon Locations,Verizon 1717 Arch ST,1717 Arch ST,Philadelphia,PA,19103,10
+-77.4709363,39.0105011,Verizon Locations,Verizon 22001 Loudoun County PKWY,22001 Loudoun County PKWY,Ashburn,VA,20147,10
+-76.890229,39.161063,Verizon Locations,Verizon 7600 Montpelier Rd,7600 Montpelier Rd,Laurel,MD,20723,10
+-76.9583232,39.0709752,Verizon Locations,Verizon 13100 Columbia Pike,13100 Columbia Pike,Silver Spring,MD,20904,10
+-76.6519325,39.4945391,Verizon Locations,Verizon 99 Shawan Rd,99 Shawan Rd,Cockeysville,MD,21030,10
+-77.52094,37.624795,Verizon Locations,Verizon 3011 Hungary Spring Rd,3011 Hungary Spring Rd,Richmond,VA,23228,10
+-78.789056,35.8312669,Verizon Locations,Verizon 6400 Weston Pkwy,6400 Weston Pkwy,Cary,NC,27513,10
+-80.732037,35.136355,Verizon Locations,Verizon 10100 Sardis Crossing DR,10100 Sardis Crossing DR,Charlotte,NC,28270,10
+-80.9473904,35.1514481,Verizon Locations,Verizon 3700 Arco Corporate Dr,3700 Arco Corporate Dr,Charlotte,NC,28273,10
+-77.9047888,34.1993186,Verizon Locations,Verizon 3601 Converse DR,3601 Converse DR,Wilmington,NC,28403,10
+-80.8353538,34.1110633,Verizon Locations,Verizon 501 Spears Creek Church RD,501 Spears Creek Church RD,Elgin,SC,29045,10
+-80.0123085,32.8783475,Verizon Locations,Verizon 2401 Mall DR,2401 Mall DR,North Charleston,SC,29406,10
+-82.281457,34.8153,Verizon Locations,Verizon 701 Brookfield PKWY,701 Brookfield PKWY,Greenville,SC,29607,10
+-84.2772775,34.0553182,Verizon Locations,Verizon 5055 N Point PKWY,5055 N Point PKWY,Alpharetta,GA,30022,10
+-80.188002,25.773919,Verizon Locations,Verizon 2 S Biscayne Blvd #2800,2 S Biscayne Blvd #2800,Miami,FL,33131,10
+-82.3555507,28.0629038,Verizon Locations,Verizon 12802 Tampa Oaks BLVD,12802 Tampa Oaks BLVD,Temple Terrace,FL,33637,10
+-82.3698632,28.0615894,Verizon Locations,Verizon 7701 E Telecom PKWY,7701 E Telecom PKWY,Temple Terrace,FL,33637,10
+-86.4347353,35.8435351,Verizon Locations,Verizon 300 River Rock Blvd,300 River Rock Blvd,Murfreesboro,TN,37128,10
+-90.335478,32.329614,Verizon Locations,Verizon 500 Clinton Center Dr,500 Clinton Center Dr,Clinton,MS,39056,10
+-83.1278961,40.1057272,Verizon Locations,Verizon 5165 Emerald Pkwy,5165 Emerald Pkwy,Dublin,OH,43017,10
+-83.1324994,40.0545212,Verizon Locations,Verizon 5000 Britton RD,5000 Britton RD,Hilliard,OH,43026,10
+-81.453023,41.29607,Verizon Locations,Verizon 2000 Highland RD,2000 Highland RD,Twinsburg,OH,44087,10
+-83.2545078,42.4833513,Verizon Locations,Verizon 1 Towne Sq,1 Towne Sq,Southfield,MI,48076,10
+-91.664282,41.9802449,Verizon Locations,Verizon 500 2nd Ave SE,500 2nd Ave SE,Cedar Rapids,IA,52401,10
+-93.4041571,44.9855645,Verizon Locations,Verizon 505 Highway 169 N,505 Highway 169 N,Plymouth,MN,55441,10
+-88.2979195,42.057814,Verizon Locations,Verizon 777 Big Timber Rd,777 Big Timber Rd,Elgin,IL,60123,10
+-88.0425767,42.0408099,Verizon Locations,Verizon 1515 E Woodfield Rd,1515 E Woodfield Rd,Schaumburg,IL,60173,10
+-90.674245,38.7084732,Verizon Locations,Verizon 500 Technology Dr,500 Technology Dr,Weldon Spring,MO,63304,10
+-93.2807177,37.2080419,Verizon Locations,Verizon 300 John Q Hammons Pkwy,300 John Q Hammons Pkwy,Springfield,MO,65806,10
+-94.65264,38.9332878,Verizon Locations,Verizon 10740 Nall Ave,10740 Nall Ave,Overland Park,KS,66211,10
+-96.0293499,41.3382239,Verizon Locations,Verizon 7400 World Communications Dr,7400 World Communications Dr,Omaha,NE,68122,10
+-96.724133,40.856315,Verizon Locations,Verizon 4600 Innovation DR,4600 Innovation DR,Lincoln,NE,68521,10
+-92.2643137,34.7549408,Verizon Locations,Verizon One Verizon Dr,One Verizon Dr,Little Rock,AR,72114,10
+-95.9044995,36.2540837,Verizon Locations,Verizon 6929 N Lakewood AVE,6929 N Lakewood AVE,Tulsa,OK,74117,10
+-96.9519044,32.878619,Verizon Locations,Verizon 600 Hidden Ridge,600 Hidden Ridge,Irving,TX,75038,10
+-96.9531655,32.8757848,Verizon Locations,Verizon 700 Hidden Ridge,700 Hidden Ridge,Irving,TX,75038,10
+-96.704168,32.961564,Verizon Locations,Verizon 1201 E Arapaho Rd,1201 E Arapaho Rd,Richardson,TX,75081,10
+-96.7072747,32.9542589,Verizon Locations,Verizon 400 International Pkwy,400 International Pkwy,Richardson,TX,75081,10
+-96.7036276,32.984634,Verizon Locations,Verizon 2400 N Glenville,2400 N Glenville,Richardson,TX,75082,10
+-97.0403352,32.8998091,Verizon Locations,Verizon 2200 W Airfield Dr Dock E,2200 W Airfield Dr Dock E,Dfw Airport,TX,75261,10
+-95.4736889,29.739131,Verizon Locations,Verizon 5444 Westheimer,5444 Westheimer,Houston,TX,77056,10
+-98.4829715,29.5196773,Verizon Locations,Verizon 100 Ne Loop 410,100 Ne Loop 410,San Antonio,TX,78216,10
+-97.7999625,30.2421074,Verizon Locations,Verizon 3815 S Capital Of Texas Hwy,3815 S Capital Of Texas Hwy,Austin,TX,78704,10
+-104.8915882,39.6228505,Verizon Locations,Verizon 8350 E Crescent PKWY,8350 E Crescent PKWY,Greenwood Village,CO,80111,10
+-104.911402,39.5612744,Verizon Locations,Verizon 6415-6455 Business Center Dr,6415-6455 Business Center Dr,Highlands Ranch,CO,80130,10
+-104.8729309,38.9002141,Verizon Locations,Verizon 2424 Garden Of The Gods RD,2424 Garden Of The Gods RD,Colorado Springs,CO,80919,10
+-111.9618505,33.2919328,Verizon Locations,Verizon 6955 W Morelos PL,6955 W Morelos PL,Chandler,AZ,85226,10
+-106.7145395,35.0774234,Verizon Locations,Verizon 7000 Central AVE SW,7000 Central AVE SW,Albuquerque,NM,87121,10
+-118.9324099,34.187218,Verizon Locations,Verizon 2535 W Hillcrest Dr,2535 W Hillcrest Dr,Thousand Oaks,CA,91320,10
+-117.7689686,33.6687967,Verizon Locations,Verizon 15505 Sand Canyon Ave,15505 Sand Canyon Ave,Irvine,CA,92618,10
+-122.3918424,37.7912413,Verizon Locations,Verizon 201 Spear St,201 Spear St,San Francisco,CA,94105,10
+-122.0209671,37.9283134,Verizon Locations,Verizon 2770 Shadelands DR,2770 Shadelands DR,Walnut Creek,CA,94598,10
+-121.9277463,37.3951912,Verizon Locations,Verizon 2870 Zanker RD,2870 Zanker RD,San Jose,CA,95134,10
+-121.18116,38.659062,Verizon Locations,Verizon 255 Parkshore DR,255 Parkshore DR,Folsom,CA,95630,10
+-121.182588,38.661145,Verizon Locations,Verizon 600 Coolidge DR,600 Coolidge DR,Folsom,CA,95630,10
+-121.4996507,38.4691,Verizon Locations,Verizon 7901 Freeport Blvd,7901 Freeport Blvd,Sacramento,CA,95832,10
+-122.1322073,47.5809197,Verizon Locations,Verizon 3305 160th Ave SE,3305 160th Ave SE,Bellevue,WA,98008,10
+-122.1350759,47.5794218,Verizon Locations,Verizon 3245 158th Ave SE,3245 158th Ave SE,Bellevue,WA,98008,10
+-71.062228,42.366303,NBA Stadium,TD Garden,100 Legends Way,Boston,MA,2114,8
+-73.993611,40.750556,NBA Stadium,Madison Square Garden,4 Pennsylvania Plaza,New York,NY,10001,8
+-74.171111,40.733611,NBA Stadium,Barclays Center,620 Atlantic Avenue,Brooklyn,NY,11217,8
+-75.171944,39.901111,NBA Stadium,Wells Fargo Center,3601 S Broad St,Philadelphia,PA,19148,8
+-77.020833,38.898056,NBA Stadium,Verizon Center,601 F Street NW,Washington,DC,20004,8
+-80.839167,35.225,NBA Stadium,Time Warner Cable Arena,333 East Trade Street,Charlotte,NC,28302,8
+-84.396389,33.757222,NBA Stadium,Philips Arena,1 Philips Drive NW,Atlanta,GA,30303,8
+-81.383611,28.539167,NBA Stadium,Amway Center,400 W. Church St,Orlando,FL,32801,8
+-80.188056,25.781389,NBA Stadium,American Airlines Arena,601 Biscayne Boulevard,Miami,FL,33132,8
+-90.050556,35.138333,NBA Stadium,FedExForum,191 Beale Street,Memphis,TN,38103,8
+-81.688056,41.496389,NBA Stadium,Quicken Loans Arena,1 Center Court,Cleveland,OH,44115,8
+-86.155556,39.763889,NBA Stadium,Bankers Life Fieldhouse,125 S. Pennsylvania St,Indianapolis,IN,46204,8
+-83.245556,42.696944,NBA Stadium,The Palace of Auburn Hills,6 Championship Drive,Auburn Hills,MI,48326,8
+-87.916944,43.043611,NBA Stadium,BMO Harris Bradley Center,1001 North Fourth Street,Milwaukee,WI,53203,8
+-93.276111,44.979444,NBA Stadium,Target Center,600 First Avenue North,Minneapolis,MN,55403,8
+-87.674167,41.880556,NBA Stadium,United Center,1901 W Madison Street,Chicago,IL,60612,8
+-90.081944,29.948889,NBA Stadium,Smoothie King Center,1501 Girod Street,New Orleans,LA,70113,8
+-97.515,35.463333,NBA Stadium,Chesapeake Energy Arena,100 W Reno Ave,Oklahoma City,OK,73102,8
+-96.810278,32.790556,NBA Stadium,American Airlines Center,2500 Victory Avenue,Dallas,TX,75219,8
+-95.362222,29.750833,NBA Stadium,Toyota Center,1510 Polk Street,Houston,TX,77002,8
+-98.4375,29.426944,NBA Stadium,AT&T Center,1 AT&T Center Parkway,San Antonio,TX,78219,8
+-105.0075,39.748611,NBA Stadium,Pepsi Center,1000 Chopper Circle,Denver,CO,80204,8
+-111.901111,40.768333,NBA Stadium,EnergySolutions Arena,301 West South Temple,Salt Lake City,UT,84101,8
+-112.071389,33.445833,NBA Stadium,Talking Stick Resort Arena,201 East Jefferson,Phoenix,AZ,85004,8
+-118.267222,34.043056,NBA Stadium,Staples Center,1111 S. Figueroa Street,Los Angeles,CA,90015,8
+-122.203056,37.750278,NBA Stadium,Oracle Arena,7000 Coliseum Way,Oakland,CA,94621,8
+-121.518056,38.649167,NBA Stadium,Sleep Train Arena,One Sports Parkway,Sacramento,CA,95834,8
+-72.614602,42.036791,Theme Park,Six Flags New England,1623 Main St,Agawam,MA,1001,5
+-72.606072,42.205639,Halls of Fame,Volleyball Hall of Fame,444 Dwight St,Holyoke,MA,1040,5
+-72.585096,42.093714,Halls of Fame,Naismith Memorial Basketball Hall of Fame,1000 Hall Fame Ave,Springfield,MA,1105,5
+-71.252674,42.094399,Halls of Fame,New England Patriots Hall of Fame,2 Patriot Dr,Foxborough,MA,2035,5
+-71.068125,42.378493,Halls of Fame,Entrepreneur Walk of Fame,321 Main St,Boston,MA,2129,5
+-71.116158,42.372443,Best Burgers,Mr. Bartley's Burger Cottage,1246 Massachusetts Ave,Cambridge,MA,2138,5
+-71.098585,42.363513,Best Burgers,Craigie on Main,853 Main St,Cambridge,MA,2139,5
+-71.272913,41.66354,Halls of Fame,America's Cup Hall of Fame,1 Burnside St,Bristol,RI,2809,5
+-71.308297,41.482789,Halls of Fame,International Tennis Hall of Fame,194 Bellevue Ave,Newport,RI,2840,5
+-72.783402,41.546837,Best Burgers,Ted's Restaurant,1046 Broad St,Meriden,CT,6450,5
+-72.930373,41.306455,Best Burgers,Louis? Lunch,263 Crown St,New Haven,CT,6511,5
+-74.038434,40.889184,Best Burgers,White Manna Hamburgers,358 River St,Hackensack,NJ,7601,5
+-74.055478,40.852372,Halls of Fame,Aviation Hall of Fame and Museum of New Jersey,400 Fred Wehran Dr,Teterboro,NJ,7608,5
+-74.439743,40.136994,Theme Park,Six Flags Great Adventure,1 Six Flags Blvd,Jackson,NJ,8527,5
+-73.986259,40.748171,Halls of Fame,Irish American Baseball Hall of Fame,18 West 33rd Street,New York,NY,10001,5
+-73.982758,40.72823,Best Burgers,Brindle Room,277 E 10th St,New York,NY,10009,5
+-74.000691,40.730009,Best Burgers,Minetta Tavern,113 MacDougal St.,New York,NY,10012,5
+-74.001775,40.737358,Best Burgers,The Little Owl,93 Greenwich Ave,New York,NY,10014,5
+-74.003764,40.737972,Best Burgers,Corner Bistro,331 W 4th St,New York,NY,10014,5
+-74.00669,40.735583,Best Burgers,The Spotted Pig,314 W 11th St,New York,NY,10014,5
+-73.98497,40.762497,Halls of Fame,American Theater Hall of Fame,222 West 51st Street,New York,NY,10019,5
+-73.965436,40.805422,NASA Centers,Goddard Institute for Space Studies,2880 Broadway,New York,NY,10025,5
+-73.950047,40.810021,Halls of Fame,The Apollo Theatre Hall of Fame,253 West 125th Street,New York,NY,10027,5
+-73.957287,40.777477,Best Burgers,Lexington Candy Shop,1226 Lexington Ave,New York,NY,10028,5
+-73.913953,40.858799,Halls of Fame,Hall of Fame for Great Americans,2155 University Ave,Bronx,NY,10453,5
+-73.922602,40.826983,Halls of Fame,Bronx Walk of Fame,161st Street and Grand Concourse,Bronx,NY,10458,5
+-73.677004,40.965491,Theme Park,Rye Playland,100 Playland Pkwy,Rye,NY,10580,5
+-74.31937,41.404217,Halls of Fame,Harness Racing Museum & Hall of Fame,240 Main St,Goshen,NY,10924,5
+-73.962452,40.709828,Best Burgers,Peter Luger,178 Broadway,Brooklyn,NY,11211,5
+-73.849069,40.755916,Halls of Fame,New York Mets Hall of Fame,123-01 Roosevelt Ave,Flushing-Queens,NY,11368,5
+-73.303341,40.82922,Halls of Fame,National Jewish Sports Hall of Fame and Museum,74 Hauppauge Road,Commack,NY,11725,5
+-73.419764,40.752605,Theme Park,Adventureland Amusement Park,2245 Broad Hollow Road (RT. 110),Farmingdale,NY,11735,5
+-72.730441,40.924221,Theme Park,Splish Splash,2549 Splish Splash Drive,Calverton,NY,11933,5
+-73.697225,43.352495,Theme Park,The Great Escape & Splashwater Kingdom,89 Six Flags Dr,Queensbury,NY,12804,5
+-73.702284,43.397008,Theme Park,Magic Forest,1912 State Route 9,Lake George,NY,12845,5
+-73.773411,43.076264,Halls of Fame,U.S. National Museum of Racing and Hall of Fame,191 Union Ave,Saratoga Springs,NY,12866,5
+-73.790244,43.065892,Halls of Fame,National Museum of Dance and Hall of Fame,99 S Broadway,Saratoga Springs,NY,12866,5
+-75.749813,43.08938,Halls of Fame,International Boxing Hall of Fame,360 N Peterboro St,Canastota,NY,13032,5
+-76.797694,42.910936,Halls of Fame,National Women's Hall of Fame,76 Fall St,Seneca Falls,NY,13148,5
+-74.92321,42.699958,Halls of Fame,National Baseball Hall of Fame and Museum,25 Main St,Cooperstown,NY,13326,5
+-75.228271,43.103216,Halls of Fame,National Distance Running Hall of Fame,114 Genesee St,Utica,NY,13502,5
+-75.112942,42.447417,Halls of Fame,National Soccer Hall of Fame,West End ,New York,NY,13820,5
+-77.600709,43.152744,Halls of Fame,National Toy Hall of Fame,1 Manhattan Square Dr,Rochester,NY,14607,5
+-77.542123,43.231634,Theme Park,Seabreeze Amusement Park,4600 Culver Rd,Rochester,NY,14622,5
+-79.863684,40.387588,Theme Park,Kennywood,4800 Kennywood Blvd,West Mifflin,PA,15122,5
+-80.018185,40.445625,Halls of Fame,Robot Hall of Fame,1 Allegheny Ave,Pittsburgh,PA,15212,5
+-80.510511,41.232948,Halls of Fame,Vocal Group Hall of Fame,82 W State St,Sharon,PA,16146,5
+-76.654098,40.288746,Theme Park,Hersheypark,100 W Hersheypark Dr,Hershey,PA,17033,5
+-76.21831,40.027031,Theme Park,Dutch Wonderland,2249 Lincoln Hwy E,Lancaster,PA,17602,5
+-76.503917,40.877839,Theme Park,Knoebels Amusement Resort,391 Knoebels Blvd,Elysburg,PA,17824,5
+-75.53387,40.578397,Theme Park,Dorney Park and Wildwater Kingdom,4000 Dorney Park Rd,Allentown,PA,18104,5
+-74.872025,40.185381,Theme Park,Sesame Place,100 Sesame Rd,Langhorne,PA,19047,5
+-75.130105,39.970539,Best Burgers,Sketch Burger,413 E Girard Ave,Philadelphia,PA,19125,5
+-75.147224,39.918283,Halls of Fame,Hardcore Hall of Fame,2300 S. Swanson St.,Philadelphia,PA,19148,5
+-75.166506,39.906067,Halls of Fame,Philadelphia Baseball Wall of Fame,1 Citizens Bank Way,Philadelphia,PA,19148,5
+-75.458042,40.194215,Halls of Fame,USA Field Hockey Hall of Fame,601 E Main St,Collegeville,PA,19426,5
+-75.564174,39.731809,Halls of Fame,Delaware Sports Museum and Hall of Fame,801 Shipyard Dr,Wilmington,DE,19801,5
+-77.015461,38.88307,NASA Centers,NASA Headquarters,300 E Street SW,Washington,DC,20546,5
+-76.77122,38.90111,Theme Park,Six Flags America,13710 Central Avenue,Upper Marlboro,MD,20721,5
+-76.852809,38.991087,NASA Centers,Goddard Space Flight Center,8800 Greenbelt Road,Greenbelt,MD,20771,5
+-76.621819,39.334673,Halls of Fame,Lacrosse Museum and National Hall of Fame,113 W University Pkwy,Baltimore,MD,21210,5
+-77.077792,38.893924,Best Burgers,Ray?s to the Third,1650 Wilson Blvd,Arlington,VA,22209,5
+-77.443676,37.839752,Theme Park,Kings Dominion,16000 Theme Park Way,Doswell,VA,23047,5
+-76.636488,37.26166,Theme Park,Water Country USA,176 Water Country Pkwy,Williamsburg,VA,23185,5
+-76.64448,37.23862,Theme Park,Busch Gardens Williamsburg,1 Busch Gardens Blvd.,Williamsburg,VA,23185,5
+-75.42492,37.93678,NASA Centers,Goddard Wallops Flight Facility,292W Wallops Island,Wallops Island,VA,23337,5
+-76.39344,37.101406,NASA Centers,Langely Research Center,60 Wythe Creek Rd,Hampton,VA,23666,5
+-76.344318,37.024009,NASA Centers,Virginia Air & Space Center,600 Settlers Landing Rd,Hampton,VA,23669,5
+-76.299085,36.835745,Halls of Fame,Virginia Sports Hall of Fame and Museum,206 High St,Portsmouth,VA,23704,5
+-80.198,39.43057,NASA Centers,Goddard IV and V Facility,100 University Dr,Fairmont,WV,26554,5
+-78.638475,35.781864,Halls of Fame,North Carolina Sports Hall of Fame,5 E Edenton St,Raleigh,NC,27601,5
+-80.843668,35.221308,Halls of Fame,NASCAR Hall of Fame,400 E Martin Luther King Jr Blvd,Charlotte,NC,28202,5
+-80.94987,35.10085,Theme Park,Camp Wilderness Resort,14523 Carowinds Blvd,Charlotte,NC,28273,5
+-84.549689,33.768444,Theme Park,Six Flags Over Georgia,275 Riverside Pkwy SW,Austell,GA,30168,5
+-84.389328,33.771693,Best Burgers,The Varsity,61 North Ave NW,Atlanta,GA,30308,5
+-84.384481,33.779063,Best Burgers,The Vortex,878 Peachtree St NE,Atlanta,GA,30309,5
+-84.390386,33.815928,Best Burgers,Holeman & Finch Public House,2277 Peachtree Rd NE,Atlanta,GA,30309,5
+-84.395761,33.760558,Halls of Fame,College Football Hall of Fame,250 Marietta St NW,Atlanta,GA,30313,5
+-84.388624,33.734836,Halls of Fame,Atlanta Braves Museum and Hall of Fame,755 Hank Aaron Dr SE,Atlanta,GA,30315,5
+-83.624836,32.834615,Halls of Fame,Georgia Sports Hall of Fame,301 Cherry St,Macon,GA,31201,5
+-83.323633,30.720167,Theme Park,Wild Adventures Theme Park,3766 Old Clyattville Rd,Valdosta,GA,31601,5
+-81.47035,29.991151,Halls of Fame,World Golf Hall of Fame,1 World Golf Pl,St Augustine,FL,32092,5
+-80.782462,28.526152,Halls of Fame,U.S. Astronaut Hall of Fame,6225 Vectorspace Blvd,Titusville,FL,32780,5
+-80.783955,28.52668,Halls of Fame,American Police Hall of Fame & Museum,6350 Horizon Dr,Titusville,FL,32780,5
+-80.808883,28.610405,Halls of Fame,US Space Walk of Fame Museum,308 Pine St,Titusville,FL,32796,5
+-81.467443,28.474425,Theme Park,Universal Studios Orlando,6000 Universal Blvd,Orlando,FL,32819,5
+-81.45617,28.415694,Theme Park,Aquatica SeaWorld's Waterpark,5800 Water Play Way,Orlando,FL,32821,5
+-81.46137,28.411502,Theme Park,SeaWorld Orlando,7007 Sea World Dr,Orlando,FL,32821,5
+-81.461605,28.405421,Theme Park,Discovery Cove,6000 Discovery Cove Way,Orlando,FL,32821,5
+-81.57325,28.39472,Theme Park,Walt Disney World's Magic Kingdom,1180 Seven Seas Dr,Lake Buena,FL,32830,5
+-80.19352,25.765221,Best Burgers,Burger & Beer Joint,900 S Miami Ave #130,Miami,FL,33130,5
+-80.282606,25.714431,Halls of Fame,University of Miami Sports Hall of Fame,5821 San Amaro Drive,Coral Gables,FL,33146,5
+-80.105902,26.11648,Halls of Fame,International Swimming Hall of Fame,1 Hall of Fame Dr,Fort Lauderdale,FL,33316,5
+-82.412671,28.041728,Theme Park,Adventure Island Water Park,10001 N. McKinley Drive,Tampa,FL,33612,5
+-82.416036,28.038121,Theme Park,Busch Gardens Tampa,10165 N McKinley Dr,Tampa,FL,33612,5
+-81.820463,28.095354,Halls of Fame,Florida Sports Hall of Fame,905 Lake Myrtle Park Drive,Auburndale,FL,33823,5
+-86.072406,33.578323,Halls of Fame,International Motorsports Hall of Fame,3198 Speedway Blvd,Talladega,AL,35160,5
+-86.810039,33.525765,Halls of Fame,Alabama Sports Hall of Fame,2150 Richard Arrington Jr Blvd N,Birmingham,AL,35203,5
+-86.81185,33.514943,Halls of Fame,Alabama Jazz Hall of Fame,1631 4th Ave N,Birmingham,AL,35203,5
+-87.303557,30.349697,Halls of Fame,Naval Aviation Hall of Honor,1750 Radford Blvd,Pensacola,FL,35206,5
+-87.706904,34.713003,Halls of Fame,Alabama Music Hall of Fame,617 U.S. 72,Tuscumbia,AL,35674,5
+-86.65475,34.71225,NASA Centers,Marshall Space Flight Center,1 Tranquility Base,Huntsville,AL,35805,5
+-86.776131,36.158278,Halls of Fame,Country Music Hall of Fame,222 5th Ave S,Nashville,TN,37203,5
+-86.776646,36.15936,Halls of Fame,Music City Walk of Fame,4th Ave S,Nashville,TN,37203,5
+-86.778207,36.156741,Halls of Fame,Nashville Songwriters Foundation,6th Ave S & Demonbreun St,Nashville,TN,37203,5
+-83.533907,35.794979,Theme Park,Dollywood,2700 Dollywood Parks Blvd,Pigeon Forge,TN,37863,5
+-83.91108,35.963199,Halls of Fame,Women's Basketball Hall of Fame,700 Hall of Fame Dr,Knoxville,TN,37915,5
+-88.817324,35.614779,Halls of Fame,Rockabilly Hall of Fame,105 N Church St,Jackson,TN,38301,5
+-90.075115,32.31014,Halls of Fame,Mississippi Musicians Hall of Fame,100 International Dr,Jackson,MS,39208,5
+-90.15592,32.336685,Halls of Fame,Mississippi Sports Hall of Fame,1152 Lakeland Dr,Jackson,MS,39216,5
+-89.62419,30.38033,NASA Centers,Stennis Space Center,Hwy 607,Stennis Space Center,MS,39529,5
+-87.1098,37.775228,Halls of Fame,International Bluegrass Music Hall of Fame,5710 Hwy 144,Owensboro,KY,42303,5
+-82.782808,39.933784,Halls of Fame,Motorcycle Hall of Fame,13515 Yarmouth Dr,Pickerington,OH,43147,5
+-82.99108,39.939472,Best Burgers,Thurman Cafe,183 Thurman Ave,Columbus,OH,43206,5
+-83.021166,40.010719,Halls of Fame,Ohio State Varsity O Hall of Fame,2400 Olentangy River Rd,Columbus,OH,43210,5
+-81.695377,41.508542,Halls of Fame,Rock and Roll Hall of Fame,1100 E 9th St,Cleveland,OH,44114,5
+-81.526941,41.598378,Halls of Fame,Polka Hall of Fame,605 E 222nd St,Cleveland,OH,44123,5
+-81.854496,41.418747,NASA Centers,NASA Glenn Research Center,21000 Brookpark Road,Cleveland,OH,44135,5
+-81.517042,41.079024,Halls of Fame,National Inventors Hall of Fame,199 S Broadway St,Akron,OH,44308,5
+-81.397848,40.821113,Halls of Fame,Pro Football Hall of Fame,2121 George Halas Dr NW,Canton,OH,44708,5
+-82.683604,41.481944,Theme Park,Cedar Point Amusement,1 Cedar Point Dr,Sandusky,OH,44870,5
+-84.25832,39.35745,Theme Park,Kings Island Theme Park,6300 Kings Island Dr,Maineville,OH,45039,5
+-84.508503,39.097443,Halls of Fame,Cincinnati Reds Hall of Fame and Museum,100 Joe Nuxhall Way,Cincinnati,OH,45202,5
+-84.518509,39.108589,Halls of Fame,American Classical Music Hall of Fame and Museum,1225 Elm St,Cincinnati,OH,45202,5
+-84.110375,39.781725,Halls of Fame,National Aviation Hall of Fame,1100 Spaatz St,Dayton,OH,45433,5
+-82.105604,39.323292,Halls of Fame,Kermit Blosser Ohio Athletics Hall of Fame,95 Richland Ave,Athens,OH,45701,5
+-86.171501,39.768139,Halls of Fame,NCAA Hall of Champions,700 W Washington St,Indianapolis,IN,46204,5
+-86.233668,39.790183,Halls of Fame,Indianapolis Motor Speedway Hall of Fame Museum,4790 W 16th St,Indianapolis,IN,46222,5
+-86.019412,40.75475,Halls of Fame,Circus Hall of Fame,3076 Peru Circus Ln,Peru,IN,46970,5
+-85.380601,39.909766,Halls of Fame,Indiana Basketball Hall of Fame,408 Trojan Ln,New Castle,IN,47362,5
+-86.91248,38.122558,Theme Park,Holiday World & Splashin Safari,452 E Christmas Blvd,Santa Claus,IN,47579,5
+-83.089399,42.550664,Halls of Fame,National Polish-American Sports Hall of Fame,2975 E. Maple,Troy,MI,48083,5
+-83.237689,42.302556,Halls of Fame,Automotive Hall of Fame,21400 Oakwood Blvd,Dearborn,MI,48124,5
+-83.050046,42.326596,Halls of Fame,Michigan Sports Hall of Fame,1 Washington Blvd,Detroit,MI,48226,5
+-87.665885,46.503577,Halls of Fame,U.S. National Ski Hall of Fame and Museum,610 Palms Ave,Ishpeming,MI,49849,5
+-93.499918,41.654372,Theme Park,Adventureland,305 34th Ave NW,Altoona,IA,50009,5
+-93.109689,41.327991,Halls of Fame,National Sprint Car Hall of Fame,1 Sprint Capital Pl,Knoxville,IA,50138,5
+-94.44424,41.323637,Halls of Fame,Iowa Aviation Hall of Fame,2251 Airport Rd,Greenfield,IA,50849,5
+-91.574555,41.659002,Halls of Fame,University of Iowa Athletics Hall of Fame,2425 Prairie Meadow Dr,Iowa City,IA,52242,5
+-87.917131,43.10023,Best Burgers,Solly's Grille,4629 N Port Washington Rd,Milwaukee,WI,53212,5
+-88.054886,43.023704,Halls of Fame,Wisconsin Golf Hall of Fame,11350 W. Theo Trecker Way,West Allis,WI,53214,5
+-89.210185,43.1798,Halls of Fame,National Midget Auto Racing Hall of Fame,315 Park St.,Sun Prairie,WI,53590,5
+-88.062227,44.501238,Halls of Fame,Green Bay Packers Hall of Fame,1265 Lombardi Ave,Green Bay,WI,54304,5
+-89.294187,45.903827,Halls of Fame,Wisconsin Hockey Hall of Fame,4149 Hwy-70 East,Eagle River,WI,54521,5
+-93.453825,44.798765,Theme Park,Soak City Waterpark,1 Valleyfair Drive,Shakopee,MN,55379,5
+-93.276039,44.976725,Halls of Fame,Minnesota Walk of Fame,805 Hennepin Avenue,Minneapolis,MN,55403,5
+-93.247576,44.939419,Best Burgers,Matt's Bar,3500 Cedar Ave S,Minneapolis,MN,55407,5
+-92.528565,47.471422,Halls of Fame,U.S. Hockey Hall of Fame,801 Hat Trick Ave,Eveleth,MN,55734,5
+-97.0698,47.927674,Halls of Fame,University of North Dakota Letterwinners Hall of Fame,Ralph Engelstad Arena Dr,Grand Forks,ND,58203,5
+-87.935694,42.370358,Theme Park,Six Flags Great America,1 Great America Pkwy,Gurnee,IL,60031,5
+-87.681425,42.046152,Best Burgers,Edzo?s Burger Shop,1571 Sherman Ave,Evanston,IL,60201,5
+-87.647667,41.884712,Best Burgers,Au Cheval,800 W Randolph St,Chicago,IL,60607,5
+-87.662771,41.869176,Halls of Fame,National Italian American Sports Hall of Fame,1431 West Taylor St,Chicago,IL,60607,5
+-87.700456,41.939553,Best Burgers,Kuma's Corner,2900 W Belmont Ave,Chicago,IL,60618,5
+-87.583061,41.790583,Halls of Fame,U.S. Business Hall of Fame,5700 S. Lake Shore Drive,Chicago,IL,60637,5
+-87.628582,41.888999,Halls of Fame,National Radio Hall of Fame,360 N. State St.,Chicago,IL,60654,5
+-90.67523,38.51404,Theme Park,Six Flags St. Louis,4900 Six Flags St Louis Railroad,Eureka,MO,63069,5
+-90.191909,38.62396,Halls of Fame,St. Louis Cardinals Hall of Fame Museum,700 Clark Ave,St Louis,MO,63102,5
+-90.205162,38.604084,Halls of Fame,St. Louis Wrestling Hall of Fame,2301 S 7th St,St Louis,MO,63104,5
+-90.26111,38.644341,Halls of Fame,World Chess Hall of Fame,4652 Maryland Ave,St Louis,MO,63108,5
+-90.304975,38.655872,Halls of Fame,St. Louis Walk of Fame,6504 Delmar Blvd.,St Louis,MO,63130,5
+-94.580153,39.097361,Halls of Fame,National Collegiate Basketball Hall of Fame,1401 Grand Boulevard,Kansas City,MO,64106,5
+-94.585471,39.041903,Best Burgers,Winstead?s,101 Emanuel Cleaver II Blvd.,Kansas City,MO,64112,5
+-94.481454,39.05086,Halls of Fame,Kansas City Royals Hall of Fame,1 Royal Way,Kansas City,MO,64129,5
+-93.217186,37.120493,Halls of Fame,Missouri Sports Hall of Fame,3861 E Stan Musial Dr,Springfield,MO,65809,5
+-94.874313,39.108167,Halls of Fame,National Agricultural Center and Hall of Fame,630 N 126th St,Bonner Springs,KS,66012,5
+-97.341453,37.680667,Halls of Fame,Kansas Sports Hall of Fame,515 S Wichita St,Wichita,KS,67202,5
+-97.610113,38.840993,Best Burgers,The Cozy Inn,108 N 7th St,Salina,KS,67401,5
+-90.080185,29.951707,Halls of Fame,New Orleans Saints Hall of Fame,1500 Poydras St,New Orleans,LA,70112,5
+-89.916868,30.026813,NASA Centers,Michoud Assembly Facility,13800 Old Gentilly Rd,New Orleans,LA,70129,5
+-93.086373,31.759483,Halls of Fame,Louisiana Sports Hall of Fame,500 Front St,Natchitoches,LA,71457,5
+-92.264413,34.755203,Halls of Fame,Arkansas Sports Hall of Fame,3 Verizon Arena Way,North Little Rock,AR,72114,5
+-97.464246,35.52442,Halls of Fame,National Softball Hall of Fame,2801 NE 50th St,Oklahoma City,OK,73111,5
+-97.476217,35.52498,Halls of Fame,International Gymnastics Hall of Fame,2100 NE 52nd St,Oklahoma City,OK,73111,5
+-97.483349,35.535713,Halls of Fame,National Cowboy Hall of Fame,1700 NE 63rd St,Oklahoma City,OK,73111,5
+-97.063487,36.126626,Halls of Fame,National Wrestling Hall of Fame,405 W Hall of Fame Ave,Stillwater,OK,74075,5
+-97.069489,32.751404,Halls of Fame,International Bowling Hall of Fame,621 Six Flags Dr,Arlington,TX,76011,5
+-97.071969,32.755497,Theme Park,Six Flags Over Texas,2201 Road to Six Flags St E,Arlington,TX,76011,5
+-97.347028,32.788538,Halls of Fame,Texas Cowboy Hall of Fame,128 E Exchange Ave,Fort Worth,TX,76164,5
+-97.117869,31.552739,Halls of Fame,Texas Sports Hall of Fame,1108 S University Parks Dr,Waco,TX,76706,5
+-95.098214,29.551793,NASA Centers,NASA Johnson Space Center,1601 Nasa Parkway,Houston,TX,77058,5
+-94.85417,29.270564,Halls of Fame,Texas Aviation Hall of Fame,2002 Terminal Dr,Galveston,TX,77554,5
+-98.699649,29.4584,Theme Park,SeaWorld San Antonio,10500 Sea World Dr,San Antonio,TX,78251,5
+-98.59987,29.601,Theme Park,Six Flags Fiesta Texas,17000 IH-10 West,San Antonio,TX,78257,5
+-101.808015,35.194223,Halls of Fame,American Quarter Horse Hall of Fame,2601 E Interstate 40,Amarillo,TX,79104,5
+-101.845828,33.580236,Halls of Fame,College Baseball Hall Of Fame,1517 Texas Ave,Lubbock,TX,79401,5
+-99.844,32.271653,Best Burgers,Perini Ranch Steakhouse,3002 Fm 89 #A,Buffalo Gap,TX,79508,5
+-105.107706,39.915601,Halls of Fame,Billiard Congress of America Hall of Fame,12303 Airport Way,Broomfield,CO,80021,5
+-105.0092,39.756268,Best Burgers,My Brother's Bar,2376 15th St,Denver,CO,80202,5
+-105.021332,39.743985,Halls of Fame,Colorado Sports Hall of Fame,1701 Mile High Stadium Cir #500,Denver,CO,80204,5
+-104.89559,39.720993,Halls of Fame,Colorado Aviation Hall of Fame,7711 East Academy Blvd.,Denver,CO,80230,5
+-106.293382,39.251172,Halls of Fame,National Mining Hall of Fame,120 W 9th St,Leadville,CO,80461,5
+-104.848888,38.793782,Halls of Fame,World Figure Skating Hall of Fame,20 1st St,Colorado Springs,CO,80906,5
+-104.82436,38.912517,Halls of Fame,ProRodeo Hall of Fame,101 Pro Rodeo Dr,Colorado Springs,CO,80919,5
+-106.886421,38.810505,Halls of Fame,Mountain Bike Hall of Fame,122 Teocalli Rd,Crested Butte,CO,81224,5
+-111.973406,41.124264,Halls of Fame,Utah Aviation Hall of Fame,7981 Georgia St,Hill AFB,UT,84056,5
+-111.953222,33.447673,Halls of Fame,Hall of Flame,6101 E Van Buren St,Phoenix,AZ,85008,5
+-110.86597,32.139496,Halls of Fame,Arizona Aviation Hall of Fame,6000 E Valencia Road,Tuscon,AZ,85756,5
+-105.897303,35.582575,Best Burgers,Bobcat Bite,420 Old Las Vegas Hwy,Santa Fe,NM,87501,5
+-106.614113,32.454566,NASA Centers,Goddard White Sands Test Facility,12600 NASA Road,Las Cruces,NM,88012,5
+-105.920723,32.920541,Halls of Fame,International Space Hall of Fame,3198 State Route 2001,Alamogordo,NM,88310,5
+-115.139599,36.169116,Halls of Fame,Burlesque Hall of Fame,520 Fremont St,Las Vegas,NV,89101,5
+-115.151412,36.136285,Halls of Fame,American TV Game Show Hall of Fame,3000 Paradise Rd,Las Vegas,NV,89109,5
+-119.808434,39.525774,Halls of Fame,Off-Road Motorsports Hall of Fame,10 South Lake Street,Reno,NV,89501,5
+-118.342086,34.101318,Halls of Fame,Hollywood Walk of Fame,7018 Hollywood Blvd,Los Angeles,CA,90028,5
+-118.498416,34.029339,Best Burgers,Father's Office,1018 Montana Ave,Santa Monica,CA,90403,5
+-117.999444,33.844304,Theme Park,Knott's Berry Farm,8039 Beach Blvd,Buena Park,CA,90620,5
+-118.17571,34.1971,NASA Centers,NASA Jet Propulsion Laboratory,4800 Oak Grove Drive,Pasadena,CA,91109,5
+-118.596886,34.425418,Theme Park,Six Flags Magic Mountain,26101 Magic Mountain Pkwy,Valencia,CA,91355,5
+-118.353045,34.13809,Theme Park,Universal Studios Hollywood,100 Universal City Plaza,Universal City,CA,91608,5
+-117.311643,33.126407,Theme Park,Legoland California,One LEGOLAND Drive,Carlsbad,CA,92008,5
+-117.152376,32.727258,Halls of Fame,Breitbard Hall of Fame,2131 Pan American Plaza,San Diego,CA,92101,5
+-117.225689,32.764881,Theme Park,SeaWorld San Diego,500 Sea World Dr,San Diego,CA,92109,5
+-116.546806,33.825818,Halls of Fame,Palm Springs Walk of Stars,N Palm Canyon Dr,Palm Springs,CA,92262,5
+-117.918836,33.805885,Theme Park,Disney California Adventure Park,1313 Disneyland Dr,Anaheim,CA,92802,5
+-117.89652,34.95618,NASA Centers,Nasa Dryden Flight Research Center,N Rosamond Blvd,Edwards,CA,93524,5
+-122.06417,37.40899,NASA Centers,NASA Exploration Center,Moffett Federal Field,Mountain View,CA,94043,5
+-122.06562,37.40892,NASA Centers,Nasa Ames Research Center,801 Moffett Blvd,Mountain View,CA,94043,5
+-122.421643,37.773621,Best Burgers,Zuni Cafe,1658 Market St,San Francisco,CA,94102,5
+-122.393441,37.79542,Best Burgers,Gott's Roadside,1 Ferry Building; Suite 6,San Francisco,CA,94105,5
+-122.392041,37.791174,Halls of Fame,Bay Area Sports Hall of Fame,201 Spear St #1150,San Francisco,CA,94105,5
+-122.388215,38.418955,Best Burgers,Mustards Grill,7399 Saint Helena Hwy,Napa,CA,94558,5
+-122.24967,38.14193,Theme Park,Six Flags Discovery Kingdom,1001 Fairgrounds Dr,Vallejo,CA,94589,5
+-121.744433,38.544291,Halls of Fame,U.S. Bicycling Hall of Fame,303 3rd St,Davis,CA,95616,5
+-121.490328,38.581193,Best Burgers,Jim-Denny's,816 12th St,Sacramento,CA,95814,5
+-122.638035,45.461231,Halls of Fame,Oregon Sports Hall of Fame,8500 SE McLoughlin Blvd,Portland,OR,97222,5
+-122.327735,47.661143,Best Burgers,Dick?s Drive-In,111 NE 45th St,Seattle,WA,98105,5
+-122.348094,47.621494,Halls of Fame,Science Fiction Museum and Hall of Fame,325 5th Ave N,Seattle,WA,98109,5
